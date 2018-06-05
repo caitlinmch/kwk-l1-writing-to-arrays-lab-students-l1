@@ -14,7 +14,9 @@ def change_rainbow_colors
 end
 
 
-def add_colors
+def add_cred"
+  rainbow_colors[1]="light_red"
+  rainbow_colors[2]="light_yellow"olors
 
   rainbow_colors.push('green','blue')
   # Write a solution that adds "green", then "blue" to the rainbow_colors array, then returns the a
