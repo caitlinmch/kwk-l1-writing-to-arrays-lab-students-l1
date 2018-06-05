@@ -12,7 +12,9 @@ def change_rainbow_colors
   rainbow_colors[2]="light_yellow"
 end
   rainbow_colors=["red", "light_red","light_yellow"]
+end
   raibow_colors.push[3]"green"
+  
 end
   rainbow_colors.push[4]"blue"
   
